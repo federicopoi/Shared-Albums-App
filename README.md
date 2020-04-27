@@ -1,6 +1,6 @@
-# shared_albums
+# Shared Albums App
 
-Create and share private albums.
+Create and share private albums to store pictures.
 
 ## Getting Started
 
