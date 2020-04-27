@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707628783635",
+    "firebase_url": "https://shared-albums-72ff6.firebaseio.com",
+    "project_id": "shared-albums-72ff6",
+    "storage_bucket": "shared-albums-72ff6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707628783635:android:f89f4fb54376164e6707e6",
+        "android_client_info": {
+          "package_name": "com.federicopoi.shared_albums"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707628783635-26q564m48kfp9hs47l4423not9c7fgon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaSHjDiPe2DLRVr-qj-Jk7FUyVIvjcUjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707628783635-26q564m48kfp9hs47l4423not9c7fgon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
